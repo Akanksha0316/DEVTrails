@@ -1,5 +1,6 @@
 # DEVTrails
 **AI-Powered Parametric Insurance for Gig Workers**
+
 A next-generation AI-driven parametric insurance platform designed to protect gig workers from income loss due to real-world disruptions like weather, pollution, and social events.
 
 **🛡️ Project Overview**
