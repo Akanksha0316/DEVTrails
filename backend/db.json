@@ -1,0 +1,9 @@
+{
+  "users": [],
+  "policies": [],
+  "claims": [],
+  "weather": {
+    "status": "Rainy",
+    "risk": 1.4
+  }
+}
